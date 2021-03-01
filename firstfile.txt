@@ -1,1 +1,2 @@
 This is the first file to explain git 
+This is the new method which i added
