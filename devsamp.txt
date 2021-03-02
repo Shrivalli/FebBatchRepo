@@ -1,2 +1,4 @@
 welcome to the dev branch file
 This is the new addition
+
+Third line
