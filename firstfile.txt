@@ -1,3 +1,4 @@
 This is the first file to explain git 
 This is the new method which i added
 This is the line typed in linux
+Hi this is new line
